@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39" started-at="2017-01-28T09:52:35Z" finished-at="2017-01-28T09:52:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39" started-at="2017-01-28T09:52:35Z" finished-at="2017-01-28T09:52:35Z">
+      <class name="testscripts.UsingoneDimension">
+        <test-method status="PASS" signature="oneDimension(java.lang.String, java.lang.String)[pri:0, instance:testscripts.UsingoneDimension@33a10788]" name="oneDimension" duration-ms="10" started-at="2017-01-28T15:22:35Z" data-provider="getData" finished-at="2017-01-28T15:22:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajeev.harikar@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12133]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneDimension -->
+        <test-method status="PASS" signature="oneDimension(java.lang.String, java.lang.String)[pri:0, instance:testscripts.UsingoneDimension@33a10788]" name="oneDimension" duration-ms="2" started-at="2017-01-28T15:22:35Z" data-provider="getData" finished-at="2017-01-28T15:22:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raj@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[234234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneDimension -->
+        <test-method status="PASS" signature="oneDimension(java.lang.String, java.lang.String)[pri:0, instance:testscripts.UsingoneDimension@33a10788]" name="oneDimension" duration-ms="2" started-at="2017-01-28T15:22:35Z" data-provider="getData" finished-at="2017-01-28T15:22:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raam@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1324fwe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneDimension -->
+      </class> <!-- testscripts.UsingoneDimension -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
